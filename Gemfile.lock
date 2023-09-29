@@ -193,6 +193,7 @@ DEPENDENCIES
   bootsnap
   cssbundling-rails
   debug
+  hirb
   jbuilder
   jsbundling-rails
   pg (~> 1.1)
